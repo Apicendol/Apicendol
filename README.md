@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>🎓 I'm currently pursuing my Bachelor in Information Systems from Universitas Brawijaya<br>📚 I'm currently learning Mobile and Web Apps<br>🎯 Goals: Let me be your problem solver<br>🎲 Fun fact: I don't fix my bugs</p>
+<p align="left">✨ Creating bugs since 2019<br>🎓 Bachelor of Information Systems from Universitas Brawijaya<br>📚 I'm currently learning Mobile Apps and Quality Assurance, both Manual and Automation<br>🎯 Goals: Let me be your problem solver</p>
 
 ###
 
